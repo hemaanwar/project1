@@ -1,4 +1,4 @@
-#mxj
+
 import jobs_scrap
 def titels():
     df = jobs_scrap.scrap()
